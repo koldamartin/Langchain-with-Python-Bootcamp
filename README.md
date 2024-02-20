@@ -8,3 +8,5 @@ Model Input/Output excercise - Creating a HistoryQuiz class, that will take a to
 Chains excercise -  creating a customer service AI, that will detect the language by BERT classifier, translate the text to english using Seq2SeqLM and finaly summarize the text. Because of very poor performance of open-source models. The whole task is then recreated with OpenAI GPT-3.5
 
 Data connections excercise - 
+
+![langchain cert](https://github.com/koldamartin/Langchain-with-Python-Bootcamp/assets/68967537/d6b22fca-a1fa-4c84-9fc2-8eea7f960b57)
